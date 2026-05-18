@@ -1,4 +1,4 @@
-To run Professor Workforce Insight Analyzer
+To run meeting-insight-dashboard
 
 1- conda activate fyp_env
 2- cd /d "E:\professor_workforce_analyzer"
