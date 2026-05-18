@@ -1,0 +1,7 @@
+To run Professor Workforce Insight Analyzer
+
+1- conda activate fyp_env
+2- cd /d "E:\professor_workforce_analyzer"
+3- streamlit run streamlit_app.py
+
+The app can auto-load the three sample Word documents from Downloads if they are still there. Otherwise, upload the .docx files from the sidebar.
